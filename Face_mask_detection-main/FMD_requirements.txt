@@ -1,0 +1,25 @@
+To work on the Face Mask Detection project in Jupyter Notebook, you will need to install the following dependencies:
+
+1. Python (version 3.6 or above)
+2. Jupyter Notebook (you can install it using pip: `pip install jupyter`)
+3. NumPy (install with: `pip install numpy`)
+4. OpenCV (install with: `pip install opencv-python`)
+5. TensorFlow (install with: `pip install tensorflow`)
+6. Keras (install with: `pip install keras`)
+7. Matplotlib (install with: `pip install matplotlib`)
+8. Pandas (install with: `pip install pandas`)
+
+These dependencies provide the essential libraries and frameworks for working with images, performing deep learning tasks, and visualizing the results in Jupyter Notebook.
+
+Remember to import the necessary libraries at the beginning of your Jupyter Notebook file using the import statements, such as:
+
+```python
+import numpy as np
+import cv2
+import tensorflow as tf
+from tensorflow import keras
+import matplotlib.pyplot as plt
+import pandas as pd
+```
+
+With these dependencies in place, you'll be all set to dive into the exciting world of face mask detection using Jupyter Notebook!
